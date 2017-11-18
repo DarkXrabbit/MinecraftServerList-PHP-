@@ -39,6 +39,10 @@ color: #66CCFF;
 	<span style="font-size: 18px;"> 訊敬班級網站 <a target="_blank" href="http://121.amsserver.xyz">http://121.amsserver.xyz</a> </span><br />
 	<span style="font-size: 18px;"> 伺服器列表網站 <a target="_blank" href="https://server.wartw.top">https://server.wartw.top</a> </span><br />
 </div>
+<div class="panel panel-jumbotron" id="d1">
+	<h3><span style="font-size: 16px;">GitHub開源</span></h3>
+	<span style="font-size: 18px;"> 開源低加拉 <a target="_blank" href="https://github.com/haer0248/MinecraftServerList">https://github.com/haer0248/MinecraftServerList</a> </span><br />
+</div>
 <?php include('ad.php'); ?>
 </div>
 </main>
