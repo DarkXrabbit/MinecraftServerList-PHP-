@@ -19,7 +19,7 @@ $mail->isSMTP(true);
 $mail->Host = 'smtp.gmail.com';
 $mail->SMTPAuth = true;
 $mail->Username = 'amsserver.noreply@gmail.com';
-$mail->Password = '21135220aza';
+$mail->Password = 'password';
 $mail->SMTPSecure = 'ssl';
 $mail->Port = 465;
 
